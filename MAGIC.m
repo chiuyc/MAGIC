@@ -88,7 +88,7 @@ MAGIC(data,group,bonf,equ_sam_size,p_cutoff,mod_score_cutoff,output_filename)
 % cancer" by Hsiao and Chiu et al. Mathematical details and biological
 % applications of MAGIC can be found in this paper. For questions and
 % comments regarding the MAGIC tool, please contact us at
-% chiuyc@users.noreply.github.com
+% f99945006@ntu.edu.tw
 % 
 % Enjoy!
 
