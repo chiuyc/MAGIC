@@ -83,11 +83,12 @@ MAGIC(data,group,bonf,equ_sam_size,p_cutoff,mod_score_cutoff,output_filename)
 % 
 % Reference: The MAGIC tool is for academic purposes only and all rights
 % are reserved. To reference the MAGIC algorithm or the tool, please cite
-% the paper: ""Differential network analysis reveals the genome-wide
-% landscape of estrogen receptor modulation in hormonal cancers" by Hsiao
-% and Chiu et al. Mathematical details and biological applications of MAGIC
-% can be found in this paper. For questions and comments regarding the
-% MAGIC tool, please contact us at f99945006@ntu.edu.tw
+% the paper: Hsiao and Chiu et al. Differential network analysis reveals
+% the genome-wide landscape of estrogen receptor modulation in hormonal
+% cancers. Scientific Reports. 2016;6:23035. doi:10.1038/srep23035.
+% Mathematical details and biological applications of MAGIC can be found
+% in this paper. For questions and comments regarding the MAGIC tool, 
+% please contact us at f99945006@ntu.edu.tw
 % 
 % Enjoy!
 
